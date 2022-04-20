@@ -34,7 +34,7 @@ export const ADD_FRIEND = gql`
             friendCount
             friends {
                 _id
-                usename
+                username
             }
         }
     }
